@@ -1,0 +1,13 @@
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\HelloDocker.exe
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\HelloDocker.deps.json
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\HelloDocker.runtimeconfig.json
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\HelloDocker.runtimeconfig.dev.json
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\HelloDocker.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\HelloDocker.pdb
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.csprojAssemblyReference.cache
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.AssemblyInfoInputs.cache
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.AssemblyInfo.cs
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.csproj.CoreCompileInputs.cache
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.pdb
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "HelloWorldWorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
