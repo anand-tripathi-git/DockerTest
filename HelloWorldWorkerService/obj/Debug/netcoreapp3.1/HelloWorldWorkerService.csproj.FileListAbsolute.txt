@@ -41,3 +41,11 @@ C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\obj
 C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\obj\Debug\netcoreapp3.1\HelloWorldWorkerService.dll
 C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\obj\Debug\netcoreapp3.1\HelloWorldWorkerService.pdb
 C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\obj\Debug\netcoreapp3.1\HelloWorldWorkerService.genruntimeconfig.cache
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloWorldWorkerService\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll

@@ -1,0 +1,38 @@
+{"@t":"2020-07-17T19:46:02.3793097Z","@mt":"Seq {SeqVersion} running on OS {OSCaption}","SeqVersion":"5.1.3364","OSCaption":"Linux 4.19.104-microsoft-standard #1 SMP Wed Feb 19 06:37:35 UTC 2020","SourceContext":"Seq.Server.Features.Diagnostics.EnvironmentInformationWriter"}
+{"@t":"2020-07-17T19:46:03.3152205Z","@mt":"Seq listening on {ListenUris}","ListenUris":["http://localhost/","http://localhost:5341/"]}
+{"@t":"2020-07-17T19:46:03.3442121Z","@mt":"Opening document store {DocumentsPath}","DocumentsPath":"/data/Documents/documents.lmdb","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.3923682Z","@mt":"Opening event store at {ExtentsPath}","ExtentsPath":"/data/Extents","SourceContext":"Flare.Events.EventStore"}
+{"@t":"2020-07-17T19:46:03.3932309Z","@mt":"Available storage engines in order of preference are {Engines}","Engines":["FLARE"],"SourceContext":"Flare.Events.EventStore"}
+{"@t":"2020-07-17T19:46:03.4703389Z","@mt":"Applying migration {MigrationName}","MigrationName":"Create the built-in roles","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5098888Z","@mt":"Applying migration {MigrationName}","MigrationName":"Create the server license","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5145352Z","@mt":"Applying migration {MigrationName}","MigrationName":"Create the Administrator account","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5248520Z","@mt":"Applying migration {MigrationName}","MigrationName":"Configure the public NuGet feed","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5418675Z","@mt":"Applying migration {MigrationName}","MigrationName":"Store the default system configuration","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5488987Z","@mt":"Applying migration {MigrationName}","MigrationName":"Ensure the license supports this version","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5538463Z","@mt":"Applying migration {MigrationName}","MigrationName":"Configure default SQL queries","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5595181Z","@mt":"Applying migration {MigrationName}","MigrationName":"Make default queries visible to all users","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5800207Z","@mt":"Applying migration {MigrationName}","MigrationName":"Configure default signals","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5869419Z","@mt":"Applying migration {MigrationName}","MigrationName":"Make default signals visible to all users","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.5990819Z","@mt":"Applying migration {MigrationName}","MigrationName":"Create the shared overview dashboard","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6212148Z","@mt":"Applying migration {MigrationName}","MigrationName":"Create the default API key","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6295445Z","@mt":"Applying migration {MigrationName}","MigrationName":"Apply groupings to initial signals","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6363111Z","@mt":"Applying migration {MigrationName}","MigrationName":"Show built-in signals to new users upon creation","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6455085Z","@mt":"Applying migration {MigrationName}","MigrationName":"Assign index ids to signals","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6493951Z","@mt":"Applying migration {MigrationName}","MigrationName":"Pre-existing dashboards are protected by default","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6593333Z","@mt":"Setting protected flag on {DashboardId}","DashboardId":"dashboard-14"}
+{"@t":"2020-07-17T19:46:03.6625052Z","@mt":"Applying migration {MigrationName}","MigrationName":"User default workspace reflects earlier view","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6689292Z","@mt":"Creating default workspace for {UserId}","UserId":"user-admin"}
+{"@t":"2020-07-17T19:46:03.6749683Z","@mt":"Applying migration {MigrationName}","MigrationName":"New user defaults include shared dashboards","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6794228Z","@mt":"Applying migration {MigrationName}","MigrationName":"Update app invocation control properties","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6892372Z","@mt":"Applying migration {MigrationName}","MigrationName":"Extend the built-in roles","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6946461Z","@mt":"Applying migration {MigrationName}","MigrationName":"Set the default roles for new users","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.6974777Z","@mt":"Applying migration {MigrationName}","MigrationName":"Personal dashboards are never protected","SourceContext":"Quince.Storage.Lmdb.LmdbDocumentStore"}
+{"@t":"2020-07-17T19:46:03.7022823Z","@mt":"Storage subsystem available"}
+{"@t":"2020-07-17T19:47:03.8048672Z","@mt":"{CollectionCount} more generation 2 garbage collection(s) occurred","CollectionCount":1,"SourceContext":"Seq.Server.Features.Diagnostics.GCLogger"}
+{"@t":"2020-07-17T19:51:03.7757512Z","@mt":"Metrics sampled","CacheDays":0,"CacheEvents":0,"SystemMemoryUtilization":0.14582784943406157,"ProcessWorkingSetBytes":195547136,"ProcessThreads":38,"EventsArrivedPerMinute":0,"EventsAcceptedPerMinute":0,"IngestedBytesPerMinute":0,"InvalidPayloadsPerMinute":0,"UnauthorizedPayloadsPerMinute":0,"BroadcastQueueCount":0,"BroadcastSubscriptionQueuesAggregateCount":0}
+{"@t":"2020-07-17T19:56:03.7710427Z","@mt":"Applying {Count} retention policies","Count":0,"SourceContext":"Seq.Server.Features.Retention.RetentionPolicyApplier"}
+{"@t":"2020-07-17T19:56:03.7637657Z","@mt":"Metrics sampled","CacheDays":0,"CacheEvents":0,"SystemMemoryUtilization":0.14802794763804239,"ProcessWorkingSetBytes":215769088,"ProcessThreads":31,"EventsArrivedPerMinute":0,"EventsAcceptedPerMinute":0,"IngestedBytesPerMinute":0,"InvalidPayloadsPerMinute":0,"UnauthorizedPayloadsPerMinute":0,"BroadcastQueueCount":0,"BroadcastSubscriptionQueuesAggregateCount":0}
+{"@t":"2020-07-17T19:56:03.7773535Z","@mt":"Retention processing and compaction took {Elapsed} ms; allocating {Allocation} ms for indexing","Elapsed":13.4655,"Allocation":599986.53450000007}
+{"@t":"2020-07-17T19:56:03.7797447Z","@mt":"Beginning indexing","SourceContext":"Seq.Server.Features.Indexing.EventStoreIndexer"}
+{"@t":"2020-07-17T19:56:03.8439570Z","@mt":"Wrote {IndexSetCount} index sets in {Elapsed:0.000} ms","@r":["63.000"],"IndexSetCount":0,"Elapsed":63,"SourceContext":"Seq.Server.Features.Indexing.EventStoreIndexer"}
+{"@t":"2020-07-17T19:56:03.8461686Z","@mt":"Indexing took {Elapsed} ms; total iteration time was {Iteration} ms","Elapsed":68,"Iteration":81.521300000000011}

@@ -22,7 +22,8 @@ namespace HelloWorldWorkerService
             while (!stoppingToken.IsCancellationRequested)
             {
                 _logger.LogInformation("Hello World from Worker: {time}", DateTimeOffset.Now);
-                await Task.Delay(1000, stoppingToken);
+                _logger.LogWarning("This is a warning");
+                await Task.Delay(2000, stoppingToken);
             }
         }
     }

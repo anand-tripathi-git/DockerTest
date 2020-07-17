@@ -11,3 +11,6 @@ C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netco
 C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.dll
 C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.pdb
 C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.genruntimeconfig.cache
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\My projects\Practice\MicroServices\DockerTutorial\HelloDocker\obj\Debug\netcoreapp3.1\HelloDocker.csproj.CopyComplete

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OWAC7yDXceO6DaOWMOWxBkHDsUYGdXPgf0llOqnVLNR2tRXKucHOrXqUv8FzugcGpHKz2H0fuTUuyk5JFY34Sg==",
+  "dgSpecHash": "7NCmNlR8aE89wcbTHXyZB/cTuZbVMKCu7z9GGb1m9pns1VlVb/p51MZHBhw6WnH9NNpf3/VPFGvvPBFFzbICHg==",
   "success": true,
   "projectFilePath": "C:\\My projects\\Practice\\MicroServices\\DockerTutorial\\HelloDocker\\HelloDocker.csproj",
   "expectedPackageFiles": [
